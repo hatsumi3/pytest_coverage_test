@@ -50,3 +50,5 @@ coverage html
 
 - django ver.
   - [https://qiita.com/hatsumi3/items/11c5bc835efe713e4767](https://qiita.com/hatsumi3/items/11c5bc835efe713e4767)
+- pytest fixture(yield)
+  - [https://qiita.com/mink0212/items/b26a393a316b533064e3](https://qiita.com/mink0212/items/b26a393a316b533064e3)
