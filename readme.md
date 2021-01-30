@@ -19,6 +19,10 @@ run `python run.py`
 
 run `pytest`
 
+The following arguments are given in pytest.ini
+
+`-v --durations=0`
+
 ### Get Coverage
 
 run `checkcoverage.bat`
@@ -52,3 +56,11 @@ coverage html
   - [https://qiita.com/hatsumi3/items/11c5bc835efe713e4767](https://qiita.com/hatsumi3/items/11c5bc835efe713e4767)
 - pytest fixture(yield)
   - [https://qiita.com/mink0212/items/b26a393a316b533064e3](https://qiita.com/mink0212/items/b26a393a316b533064e3)
+- mock,patch(unittest module. also use in pytest)
+  - [https://note.crohaco.net/2015/python-mock/](https://note.crohaco.net/2015/python-mock/)
+  - qiita article
+    - その１[https://qiita.com/__init__/items/e9006fb8251a32847efc](https://qiita.com/__init__/items/e9006fb8251a32847efc)
+    - その２[https://qiita.com/__init__/items/dfea93e8b65a8035b67e](https://qiita.com/__init__/items/dfea93e8b65a8035b67e)
+    - その３[https://qiita.com/__init__/items/9678c653e1a74f289fc0](https://qiita.com/__init__/items/9678c653e1a74f289fc0)
+- pytest.ini
+  - official [https://docs.pytest.org/en/stable/example/pythoncollection.html](https://docs.pytest.org/en/stable/example/pythoncollection.html)
