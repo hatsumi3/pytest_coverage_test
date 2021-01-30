@@ -1,0 +1,9 @@
+[run]
+source=.
+omit= */tests/*
+      */htmlcov/*
+      run.py
+[report]
+omit= */tests/*
+[html]
+directory = htmlcov
